@@ -24,6 +24,6 @@ https://www.nexusmods.com/lethalcompany/mods/25 а отсюда пресет н�
 https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/ отсюда скачать зип (manual download) и закинуть в ![image](https://github.com/NikonorovDS/lethal-company/assets/38683193/5a48fe56-b70b-475c-8bea-879fb55374ca)
 
 
-
+https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/ отсюда качаем .dll и тоже его в plugins
 
 запустить игру в онлайн режиме и справа в меню будет зеленая иконка настроек персонажа и еще будет видно шейдеры
