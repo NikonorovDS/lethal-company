@@ -20,3 +20,10 @@ https://www.nexusmods.com/lethalcompany/mods/25 а отсюда пресет н�
 и далее по списку:
 ![image](https://github.com/NikonorovDS/lethal-company/assets/38683193/23cc29c3-1026-4a49-97ce-4aa4a81177b9)
 пункт 5 - это просто уже за вас все выбрали жми некст и погнали
+
+https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/ отсюда скачать зип (manual download) и закинуть в ![image](https://github.com/NikonorovDS/lethal-company/assets/38683193/5a48fe56-b70b-475c-8bea-879fb55374ca)
+
+
+
+
+запустить игру в онлайн режиме и справа в меню будет зеленая иконка настроек персонажа и еще будет видно шейдеры
