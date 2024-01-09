@@ -27,3 +27,6 @@ https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/ отсю�
 https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/ отсюда качаем .dll и тоже его в plugins
 
 запустить игру в онлайн режиме и справа в меню будет зеленая иконка настроек персонажа и еще будет видно шейдеры
+
+
+https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/
