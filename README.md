@@ -30,3 +30,4 @@ https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/ Ð
 
 
 https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/
+https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/
